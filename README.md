@@ -1,5 +1,5 @@
 # DubPreampAnalog
-Analog Dub Preamp Project
+Analog Dub Preamp Project 
 
 Monophonic DUB preamplifier :
 (Could be stereo, duplicate all board and use stereo pots)
@@ -18,3 +18,4 @@ Todo :
 - Power supply schematic (Done).
 
 It's up to you to create the circuit boards.
+To create a case front, you can use FrontPanel https://www.frontpanelexpress.com/products#
