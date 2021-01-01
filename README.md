@@ -10,7 +10,8 @@ Schematic editor :
 
 Todo :
 - Line preamp schematic (Done).
-- Fx preamp schematic (Done). (Maybe add an eq ?)
+- Fx preamp schematic (Done)
+  - (Maybe add an eq ?)
 - Phono preamp schematic.
 - Microphone preamp schematic.
 - Main board with crossover schematic (Done).
