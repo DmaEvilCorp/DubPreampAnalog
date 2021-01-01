@@ -13,7 +13,8 @@ Todo :
 - Fx preamp schematic (Done)
   - (Maybe add an eq ?)
 - Phono preamp schematic.
-- Microphone preamp schematic.
+- Microphone preamp schematic (Done).
+  - (Need to be connected to another line preamp before main board).
 - Main board with crossover schematic (Done).
   - (Effects returns should also go through an second active filter).
   - (May add another insert for sound generator in parallel of fx return).
