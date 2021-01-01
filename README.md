@@ -11,9 +11,9 @@ Schematic editor :
 Todo :
 - Line preamp schematic (Done).
 - Fx preamp schematic (Done). (Maybe add an eq ?)
-- Main board schematic.
 - Phono preamp schematic.
-- Crossover 12db / 24db schematic. (Effects returns should also go through an second active filter)
+- Microphone preamp schematic.
+- Main board with crossover schematic.(Effects returns should also go through an second active filter)
 - Vu-meter schematic.
 - Headphone schematic.
 - 10 bands eq schematic.
