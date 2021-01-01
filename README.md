@@ -19,7 +19,7 @@ Todo :
   - (May add another insert for microphone in parallel of fx return).
 - Vu-meter schematic.
 - Headphone schematic.
-- 10 bands eq schematic.
+- 10 bands eq schematic (Done).
 - Power supply schematic (Done).
 
 It's up to you to create the circuit boards (PCB).
