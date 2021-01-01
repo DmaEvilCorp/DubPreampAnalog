@@ -1,7 +1,7 @@
 # DubPreampAnalog
 
 Analog Dub Preamp Project (Monophonic) : 
-(Could be stereo, duplicate all board and use stereo pots)
+(Could be stereo, duplicate all board and use stereo pots | Stack board design ?).
 Unverified schematics.
 Very inspired by old sound consoles.
 
