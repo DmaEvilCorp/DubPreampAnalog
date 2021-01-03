@@ -17,6 +17,7 @@ Todo :
   - (Need to be connected to another line preamp before main board).
 - Main board with crossover schematic (Done).
   - (Effects returns should also go through an second active filter).
+    - See version 2 for ideas.
   - (May add another insert for sound generator in parallel of fx return).
   - (May add another insert for microphone in parallel of fx return).
 - Vu-meter schematic.
